@@ -36,9 +36,9 @@ function AboutCard() {
             <br />
 
             <h3 className="purple">Experiencia Laboral</h3>
-            Acerinox - Pentester & Python developer Marzo-Junio, 2023. Contrato de prácticas
+            Acerinox - Pentester & Python developer Marzo-Junio, 2023
             <br />
-            Agencia Hawkins - Python back-end developer Julio-Septiembre. 2024. Contrato temporal
+            Agencia Hawkins - Python back-end developer Julio-Septiembre, 2024
                           <br />
             <br />
             Además de la programación, estas son algunas actividades que me gustan hacer
