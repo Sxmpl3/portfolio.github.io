@@ -39,7 +39,7 @@ function AboutCard() {
             Acerinox - Pentester & Python developer Marzo-Junio, 2023
             <br />
             Agencia Hawkins - Python back-end developer Julio-Septiembre, 2024
-                          <br />
+            <br />
             <br />
             Además de la programación, estas son algunas actividades que me gustan hacer
           </p>
