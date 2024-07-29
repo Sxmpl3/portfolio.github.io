@@ -19,7 +19,7 @@ function Home2() {
             <p className="home-about-body">
               Soy Izan Cano González <span className="purple">(Aka. Sxmpl3)</span>, un profesional apasionado por la tecnología y la ciberseguridad
               <br />
-              <br /> Tengo un sólido conocimiento en ciberseguridad ofensiva y programación. He desarrollado proyectos complejos como programador y soy experto en la implementación de inteligencia artificial en herramientas back-end
+              <br /> Tengo un sólido conocimiento en ciberseguridad ofensiva y programación. He desarrollado proyectos complejos como programador y soy experto en la implementación de IA en herramientas back-end
             </p>
           </Col>
           <Col md={4} className="myAvtar">
